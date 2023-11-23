@@ -52,5 +52,18 @@ body{
      left: 50%;
      transform: translate(-50%, -50%);
      text-align: center;
+}
+.container-fluid{
+   display: inline-flex;
 
+}
+.contact_form{	
+	width: 460px; 
+    height: auto;
+    margin: 80px auto;
+	border-radius: 10px;  
+	padding-top: 30px;
+	padding-bottom: 20px;  
+    background-color: #2f1919; 
+    padding-left: 30px; 
 }
