@@ -21,7 +21,7 @@
   font-size: medium;
   }
   body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(35, 35, 35);
   }
   .navbar{
     padding: 2rem;
@@ -55,6 +55,13 @@
   }
   .container-fluid{
      display: inline-flex;
+     .card-body { 
+        background-color: rgb(255, 255, 255);
+         .h5{
+            background-color: rgb(114, 0, 0);
+         }
+        }
+        
   
   }
   .contact_form{	
@@ -64,6 +71,7 @@
       border-radius: 10px;  
       padding-top: 30px;
       padding-bottom: 20px;  
-      background-color: #313131; 
+      background-color: #2f1919; 
       padding-left: 30px; 
   }
+  
